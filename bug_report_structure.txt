@@ -1,0 +1,9 @@
+Bug report number
+Summery
+Description
+Actual Result
+Expected Result
+Steps to reproduce
+Severity
+Priority
+Reproducible
